@@ -1,0 +1,6 @@
+Web service template plugin for Moodle 2.X
+------------------------------------------
+
+To use:
+1- unzip the plugin in moodle/local/remote_gettreecourse/
+2- install plugin into core moodle
