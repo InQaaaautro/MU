@@ -7,7 +7,7 @@
 	<TABLE NAME="cdo_edutoken" COMMENT="list of tokens create from other WS">
 	  <FIELDS>
 		<FIELD NAME="id" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="true"/>
-		<FIELD NAME="name_edu" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="false"/>
+		<FIELD NAME="name_edu" TYPE="text" NOTNULL="true" SEQUENCE="false"/>
 		<FIELD NAME="token" TYPE="text" NOTNULL="true" SEQUENCE="false"/>
 		<FIELD NAME="domain" TYPE="text" NOTNULL="true" SEQUENCE="false"/>	
 	  </FIELDS>
